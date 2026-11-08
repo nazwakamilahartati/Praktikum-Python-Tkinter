@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "Nazwa Kamila Hartati",
+        "nim": "2595114036",
+        "gender": "Perempuan",
+        "prodi": "Teknik Informatika",
+        "sistem": "Reguler",
+        "semester": "Semester 3",
+        "kegiatan": [
+            "Seminar Teknologi"
+        ],
+        "alasan": "Menambah ilmu dan pengetahuan"
+    }
+]
